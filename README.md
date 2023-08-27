@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shrey Prajapati 
-- 👀 I’m interested in Mobile App Development 
-- 🌱 I’m currently learning Flutter 
+- Mobile Devloper
 
 
 <!---
